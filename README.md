@@ -1,2 +1,2 @@
 # Flocking
-https://xiyuzhou.github.io/flocking
+https://xiyuzhou.github.io/Flocking
